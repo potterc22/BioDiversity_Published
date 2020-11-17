@@ -1,4 +1,4 @@
-var samplesFile = "samples.json"
+var samplesFile = "/samples.json"
 
 // build Demographic info box with metadata
 function buildDemographic(id) {
